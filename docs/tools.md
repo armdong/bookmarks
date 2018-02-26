@@ -6,7 +6,7 @@
 + [草料二维码](https://cli.im/)
 
 
-## Ebook download
+## eBook download
 + [西林街搜索](http://www.xilinjie.com/)
 + [SaltTiger](https://salttiger.com/)
 + [All IT eBooks](http://www.allitebooks.com/)
