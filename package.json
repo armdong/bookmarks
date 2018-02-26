@@ -1,0 +1,25 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "Collections for development website and articles",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armdong/bookmarks.git"
+  },
+  "keywords": [
+    "bookmarks"
+  ],
+  "author": "armdong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armdong/bookmarks/issues"
+  },
+  "homepage": "https://github.com/armdong/bookmarks#readme"
+}
