@@ -1,4 +1,4 @@
-> 国内资源
+> 国内学习资源
 
 + [奇舞团](https://75team.com/)
 + [奇舞周刊](https://weekly.75team.com/)
