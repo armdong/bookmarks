@@ -51,6 +51,7 @@
 + [Human JavaScript](http://read.humanjavascript.com/)
 + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
 + [Speaking JavaScript](http://speakingjs.com/es5/)
++ [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/index.html)
 + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) _Principles of Writing Consistent, Idiomatic JavaScript_
 + [The Modern JavaScript Tutorial](http://javascript.info/)
 + [DOM Enlightenment](http://domenlightenment.com/)
