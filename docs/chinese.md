@@ -7,6 +7,7 @@
 + [阮一峰Blog](http://www.ruanyifeng.com/home.html)
 + [廖雪峰博客](https://www.liaoxuefeng.com/)
 + [张鑫旭博客](http://www.zhangxinxu.com/wordpress/)
++ [freeCodeCamp中文](https://freecodecamp.cn/)
 + [博客园](https://www.cnblogs.com/)
 + [ParryQiu Blog](http://blog.parryqiu.com/) _前端开发博客_
 + [前端开发博客](http://caibaojian.com/) _前端开发学习资源_
