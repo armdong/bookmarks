@@ -13,6 +13,7 @@
 + [前端开发博客](http://caibaojian.com/) _前端开发学习资源_
 + [宁皓网](https://ninghao.net/) _前端开发在线教程（收费）_
 + [简书](https://www.jianshu.com/)
++ [HetfieldJoe](https://www.jianshu.com/u/4801d203ede4)
 + [百度 Web 前端研发部(FEX)](http://fex.baidu.com/)
 + [淘宝前端团队(FED)](http://taobaofed.org/)
 + [腾讯ISUX - 社交用户体验设计](https://isux.tencent.com/)
