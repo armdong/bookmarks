@@ -61,6 +61,7 @@
 + [Now](https://zeit.co/now) _Now – Realtime Global Deployments_
 + [Surge](https://surge.sh/)
 + [Heroku](https://www.heroku.com/)
++ [Zero-configuration Deploy to Heroku](https://blog.heroku.com/deploying-react-with-zero-configuration)
 
 
 ## ShadowSocks
