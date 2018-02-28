@@ -60,6 +60,7 @@
 ## Deploy
 + [Now](https://zeit.co/now) _Now – Realtime Global Deployments_
 + [Surge](https://surge.sh/)
++ [Heroku](https://www.heroku.com/)
 
 
 ## ShadowSocks
