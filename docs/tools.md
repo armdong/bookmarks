@@ -6,6 +6,9 @@
 + [草料二维码](https://cli.im/)
 + [docsify](https://docsify.js.org/) _静态文档生成器_
 
+## Design
++ [Pinterest](https://www.pinterest.com/)
+
 ## APIs
 + [Any API](https://any-api.com/)
 
