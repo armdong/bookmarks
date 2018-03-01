@@ -41,3 +41,5 @@
 + [Learn the Web](https://learn-the-web.algonquindesign.ca/) _前端开发学习资源_
 + [Progressive Web Apps](http://webagility.com/) _前端开发学习资源_
 + [NCZOnline](https://www.nczonline.net/index.html)
+
++ [Udemy](https://www.udemy.com/) _在线教程（收费）_
