@@ -39,7 +39,8 @@
 + [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
 + [Microsoft Ajax Content Delivery Network](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview)
 
-
+## Fonts
++ [Google Fonts](https://fonts.google.com/)
 
 ## Editors
 
