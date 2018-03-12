@@ -186,6 +186,7 @@
 + [webpack 中文文档](https://doc.webpack-china.org/)
 + [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack)
 + [SurviveJS - Webpack](https://survivejs.com/webpack/foreword/)
++ [webpack 4 tutorial](https://www.valentinog.com/blog/webpack-4-tutorial/)
 
 ## Babel
 + [Babel](https://babeljs.io/)
