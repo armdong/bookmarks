@@ -31,6 +31,7 @@
 
 ## Video download
 + [Online Earning Course](https://onlineearningcourse.com/)
++ [A2ZP30](http://a2zp30.com/)
 
 ## CDNs
 + [Staticfile CDN](https://www.staticfile.org/)
