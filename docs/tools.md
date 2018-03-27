@@ -32,6 +32,7 @@
 ## Video download
 + [Free Tutorials](https://www.freetutorials.us/)
 + [Free Courses Online](https://www.freecoursesonline.us/)
++ [Free Course Site](https://freecoursesite.com/)
 + [A2ZP30](http://a2zp30.com/)
 + [Online Earning Course](https://onlineearningcourse.com/)
 
