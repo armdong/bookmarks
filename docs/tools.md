@@ -29,6 +29,7 @@
 + [胖次网盘搜索](http://www.panc.cc/)
 + [FTU Ebooks](https://discuss.freetutorials.us/c/Ebook-Platform)
 + [Base64 Decode and Encode](https://www.base64decode.org/)
++ [FoxEbook](http://www.foxebook.net/)
 
 
 ## Video download
