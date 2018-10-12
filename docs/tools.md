@@ -27,6 +27,8 @@
 + [CSDN Download](http://download.csdn.net/)
 + [核桃林研学社区](http://deca.cuc.edu.cn/Community/media/g/ebook/default.aspx)
 + [胖次网盘搜索](http://www.panc.cc/)
++ [FTU Ebooks](https://discuss.freetutorials.us/c/Ebook-Platform)
++ [Base64 Decode and Encode](https://www.base64decode.org/)
 
 
 ## Video download
