@@ -30,6 +30,7 @@
 + [FTU Ebooks](https://discuss.freetutorials.us/c/Ebook-Platform)
 + [Base64 Decode and Encode](https://www.base64decode.org/)
 + [FoxEbook](http://www.foxebook.net/)
++ [http://gen.lib.rus.ec/](http://gen.lib.rus.ec/)
 
 
 ## Video download
