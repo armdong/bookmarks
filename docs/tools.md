@@ -34,8 +34,9 @@
 
 
 ## Video download
-+ [Free Tutorials](https://www.freetutorials.us/)
-+ [Free Courses Online](https://www.freecoursesonline.us/)
++ [FreeTutorialStack](https://freetutorialstack.com)
++ [Free Tutorials](https://www.freetutorials.eu/)
++ [Free Courses Online](https://www.freecoursesonline.me/)
 + [Free Course Site](https://freecoursesite.com/)
 + [Course Club](https://courseclub.net/)
 + [A2ZP30](http://a2zp30.com/)
