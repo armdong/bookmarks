@@ -31,6 +31,7 @@
 + [Base64 Decode and Encode](https://www.base64decode.org/)
 + [FoxEbook](http://www.foxebook.net/)
 + [http://gen.lib.rus.ec/](http://gen.lib.rus.ec/)
++ [SMTebooks.EU](https://smtebooks.eu/)
 
 
 ## Video download
