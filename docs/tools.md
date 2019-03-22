@@ -114,7 +114,7 @@
 
 
 ## ShadowSocks
-+ [shadowsocks](https://www.shadowsocks.la/)
++ [shadowsocks](https://secure.shadowsocks.ch)
 
 
 ## Others
