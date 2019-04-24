@@ -6,7 +6,7 @@
 + [草料二维码](https://cli.im/)
 + [docsify](https://docsify.js.org/) _静态文档生成器_
 
-## 使用you-get现在网站视频
+## 使用you-get下载网站视频
 ```
 you-get -l [url]
 ```
