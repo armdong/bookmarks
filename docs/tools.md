@@ -7,7 +7,7 @@
 + [docsify](https://docsify.js.org/) _静态文档生成器_
 
 ## 使用you-get下载网站视频
-```
+```bash
 you-get -l [url]
 ```
 
