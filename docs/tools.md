@@ -6,6 +6,11 @@
 + [草料二维码](https://cli.im/)
 + [docsify](https://docsify.js.org/) _静态文档生成器_
 
+## 使用you-get现在网站视频
+```
+you-get -l [url]
+```
+
 ## Design
 + [Pinterest](https://www.pinterest.com/)
 
