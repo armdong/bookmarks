@@ -49,6 +49,7 @@ you-get -l [url]
 + [Course Club](https://courseclub.net/)
 + [A2ZP30](http://a2zp30.com/)
 + [Online Earning Course](https://onlineearningcourse.com/)
++ [Torrent Galaxy](https://torrentgalaxy.to/)
 
 ## CDNs
 + [Staticfile CDN](https://www.staticfile.org/)
