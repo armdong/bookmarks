@@ -51,6 +51,7 @@ you-get -l [url]
 + [Online Earning Course](https://onlineearningcourse.com/)
 + [Torrent Galaxy](https://torrentgalaxy.to/)
 + [Elearning-dl.com](https://www.allnew1s.xyz/tutorial/)
++ [FreeCourseWeb.com](https://freecourseweb.com/)
 
 ## CDNs
 + [Staticfile CDN](https://www.staticfile.org/)
