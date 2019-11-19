@@ -50,6 +50,7 @@ you-get -l [url]
 + [A2ZP30](http://a2zp30.com/)
 + [Online Earning Course](https://onlineearningcourse.com/)
 + [Torrent Galaxy](https://torrentgalaxy.to/)
++ [Elearning-dl.com](https://www.allnew1s.xyz/tutorial/)
 
 ## CDNs
 + [Staticfile CDN](https://www.staticfile.org/)
