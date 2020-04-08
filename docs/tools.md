@@ -38,6 +38,7 @@ you-get -l [url]
 + [http://gen.lib.rus.ec/](http://gen.lib.rus.ec/)
 + [SMTebooks.EU](https://smtebooks.eu/)
 + [Let Me Read](https://www.letmeread.net/category/computers-technology/)
++ [Z-Library](https://z-lib.org/)
 
 
 ## Video download
