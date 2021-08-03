@@ -54,6 +54,7 @@ you-get -l [url]
 + [Torrent Galaxy](https://torrentgalaxy.to/)
 + [Elearning-dl.com](https://www.allnew1s.xyz/tutorial/)
 + [FreeCourseWeb.com](https://freecourseweb.com/)
++ [Downloadly](https://downloadly.net/)
 
 ## CDNs
 + [Staticfile CDN](https://www.staticfile.org/)
