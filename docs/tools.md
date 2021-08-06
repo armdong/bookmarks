@@ -42,19 +42,8 @@ you-get -l [url]
 
 
 ## Video download
-+ [TtOrial](https://ttorial.com/)
-+ [Online Free Course](https://www.onlinefreecourse.net/)
-+ [FreeTutorialStack](https://freetutorialstack.com)
-+ [Free Tutorials](https://www.freetutorials.eu/)
-+ [Free Courses Online](https://www.freecoursesonline.me/)
-+ [Free Course Site](https://freecoursesite.com/)
-+ [Course Club](https://courseclub.net/)
-+ [A2ZP30](http://a2zp30.com/)
-+ [Online Earning Course](https://onlineearningcourse.com/)
-+ [Torrent Galaxy](https://torrentgalaxy.to/)
-+ [Elearning-dl.com](https://www.allnew1s.xyz/tutorial/)
-+ [FreeCourseWeb.com](https://freecourseweb.com/)
 + [Downloadly](https://downloadly.net/)
++ [TorrentGalaxy](https://torrentgalaxy.to/)
 
 ## CDNs
 + [Staticfile CDN](https://www.staticfile.org/)
