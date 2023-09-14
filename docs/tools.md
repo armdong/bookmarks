@@ -45,6 +45,9 @@ you-get -l [url]
 + [Downloadly](https://downloadly.net/)
 + [TorrentGalaxy](https://torrentgalaxy.to/)
 
+## Noval
++ [金花阁](https://www.jinhuag.com)
+
 ## CDNs
 + [Staticfile CDN](https://www.staticfile.org/)
 + [BootCDN](http://www.bootcdn.cn/)
